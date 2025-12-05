@@ -1,0 +1,39 @@
+Run directory: /scratch/kjoll/movie_maker/runs/20251119/run_143107_6570514d
+Read 101 geometry frames from ./xsh_files_forKit/run-pos-trimmed.xyz
+Read 101 coeff frames from ./xsh_files_forKit/run-coeff-1.xyz
+Matched nuclear and electronic times.
+
+Site->atom mapping:
+  A0: type=acceptor, natoms=40, indices=[132..171]
+  A1: type=acceptor, natoms=40, indices=[172..211]
+  A2: type=acceptor, natoms=40, indices=[212..251]
+  D0: type=donor, natoms=44, indices=[0..43]
+  D1: type=donor, natoms=44, indices=[44..87]
+  D2: type=donor, natoms=44, indices=[88..131]
+
+Reading fragment AOM files...
+Fragment AOMs loaded and normalised.
+Logging VMD server output to /scratch/kjoll/movie_maker/runs/20251119/run_143107_6570514d/logs/vmd.log
+Started persistent VMD render server.
+Entering loop over frames
+
+Frame 0: time = 0.0 fs
+  Electron site probabilities (A0..A2): [1. 0. 0.]
+  Hole site probabilities     (D0..D2): [0. 1. 0.]
+  Exciton site probabilities  (A0..A2): [0. 0. 0.]
+  Wrote cube files for tag f00000000
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143107_6570514d/tga_images/density_f00000000.tga
+  Deleted cube files to save space.
+
+Frame 1: time = 1.0 fs
+  Electron site probabilities (A0..A2): [9.9631834e-01 1.2233192e-03 1.9838325e-08]
+  Hole site probabilities     (D0..D2): [1.62352838e-06 9.94847492e-01 2.69256340e-03]
+  Exciton site probabilities  (A0..A2): [2.44866573e-03 9.54792352e-06 1.07555169e-07]
+  Wrote cube files for tag f00000001
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143107_6570514d/tga_images/density_f00000001.tga
+  Deleted cube files to save space.
+
+Frame 2: time = 2.0 fs
+  Electron site probabilities (A0..A2): [9.85236069e-01 4.96552839e-03 7.75564834e-08]
+  Hole site probabilities     (D0..D2): [4.06211564e-05 9.57788979e-01 3.23720747e-02]
+  Exciton site probabilities  (A0..A2): [9.64479805e-03 1.50952096e-04 2.57444730e-06]

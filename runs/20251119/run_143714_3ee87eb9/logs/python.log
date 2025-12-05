@@ -1,0 +1,832 @@
+Run directory: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9
+Read 101 geometry frames from ./xsh_files_forKit/run-pos-trimmed.xyz
+Read 101 coeff frames from ./xsh_files_forKit/run-coeff-1.xyz
+Matched nuclear and electronic times.
+
+Site->atom mapping:
+  A0: type=acceptor, natoms=40, indices=[132..171]
+  A1: type=acceptor, natoms=40, indices=[172..211]
+  A2: type=acceptor, natoms=40, indices=[212..251]
+  D0: type=donor, natoms=44, indices=[0..43]
+  D1: type=donor, natoms=44, indices=[44..87]
+  D2: type=donor, natoms=44, indices=[88..131]
+
+Reading fragment AOM files...
+Fragment AOMs loaded and normalised.
+Logging VMD server output to /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/logs/vmd.log
+Started persistent VMD render server.
+Entering loop over frames
+
+Frame 0: time = 0.0 fs
+  Electron site probabilities (A0..A2): [1. 0. 0.]
+  Hole site probabilities     (D0..D2): [0. 1. 0.]
+  Exciton site probabilities  (A0..A2): [0. 0. 0.]
+  Wrote cube files for tag f00000000
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000000.tga
+  Deleted cube files to save space.
+
+Frame 1: time = 1.0 fs
+  Electron site probabilities (A0..A2): [9.9631834e-01 1.2233192e-03 1.9838325e-08]
+  Hole site probabilities     (D0..D2): [1.62352838e-06 9.94847492e-01 2.69256340e-03]
+  Exciton site probabilities  (A0..A2): [2.44866573e-03 9.54792352e-06 1.07555169e-07]
+  Wrote cube files for tag f00000001
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000001.tga
+  Deleted cube files to save space.
+
+Frame 2: time = 2.0 fs
+  Electron site probabilities (A0..A2): [9.85236069e-01 4.96552839e-03 7.75564834e-08]
+  Hole site probabilities     (D0..D2): [4.06211564e-05 9.57788979e-01 3.23720747e-02]
+  Exciton site probabilities  (A0..A2): [9.64479805e-03 1.50952096e-04 2.57444730e-06]
+  Wrote cube files for tag f00000002
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000002.tga
+  Deleted cube files to save space.
+
+Frame 3: time = 3.0 fs
+  Electron site probabilities (A0..A2): [5.75131316e-01 1.03395309e-02 1.50801973e-07]
+  Hole site probabilities     (D0..D2): [3.08836099e-04 5.18552052e-01 6.66101097e-02]
+  Exciton site probabilities  (A0..A2): [4.10054931e-01 4.38690529e-03 8.71659958e-05]
+  Wrote cube files for tag f00000003
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000003.tga
+  Deleted cube files to save space.
+
+Frame 4: time = 4.0 fs
+  Electron site probabilities (A0..A2): [3.19992024e-01 1.28131922e-02 2.07209143e-07]
+  Hole site probabilities     (D0..D2): [0.0009757  0.25272787 0.07910185]
+  Exciton site probabilities  (A0..A2): [6.23772657e-01 4.29409682e-02 4.80950846e-04]
+  Wrote cube files for tag f00000004
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000004.tga
+  Deleted cube files to save space.
+
+Frame 5: time = 5.0 fs
+  Electron site probabilities (A0..A2): [1.83630738e-01 1.40984080e-02 2.33882934e-07]
+  Hole site probabilities     (D0..D2): [0.00205409 0.12122883 0.07444647]
+  Exciton site probabilities  (A0..A2): [0.66720474 0.13296235 0.00210353]
+  Wrote cube files for tag f00000005
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000005.tga
+  Deleted cube files to save space.
+
+Frame 6: time = 6.0 fs
+  Electron site probabilities (A0..A2): [1.10416927e-01 1.04963619e-02 2.37593496e-07]
+  Hole site probabilities     (D0..D2): [0.00343169 0.05710046 0.06038138]
+  Exciton site probabilities  (A0..A2): [0.66052003 0.2136011  0.00496534]
+  Wrote cube files for tag f00000006
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000006.tga
+  Deleted cube files to save space.
+
+Frame 7: time = 7.0 fs
+  Electron site probabilities (A0..A2): [6.83482534e-02 8.84701056e-03 2.35662672e-07]
+  Hole site probabilities     (D0..D2): [0.00481905 0.03002194 0.04235451]
+  Exciton site probabilities  (A0..A2): [0.63849933 0.27451157 0.00979361]
+  Wrote cube files for tag f00000007
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000007.tga
+  Deleted cube files to save space.
+
+Frame 8: time = 8.0 fs
+  Electron site probabilities (A0..A2): [4.40085331e-02 8.42441888e-03 2.89006595e-07]
+  Hole site probabilities     (D0..D2): [0.00548648 0.0205566  0.02639016]
+  Exciton site probabilities  (A0..A2): [0.62167971 0.31293791 0.01294914]
+  Wrote cube files for tag f00000008
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000008.tga
+  Deleted cube files to save space.
+
+Frame 9: time = 9.0 fs
+  Electron site probabilities (A0..A2): [3.09664433e-02 8.18347924e-03 5.66158447e-07]
+  Hole site probabilities     (D0..D2): [0.00570726 0.01774195 0.01570128]
+  Exciton site probabilities  (A0..A2): [0.62083033 0.32671391 0.01330528]
+  Wrote cube files for tag f00000009
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000009.tga
+  Deleted cube files to save space.
+
+Frame 10: time = 10.0 fs
+  Electron site probabilities (A0..A2): [2.49106702e-02 7.13273430e-03 1.37655651e-06]
+  Hole site probabilities     (D0..D2): [0.00569008 0.01748838 0.00886633]
+  Exciton site probabilities  (A0..A2): [0.64084299 0.31519369 0.01191854]
+  Wrote cube files for tag f00000010
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000010.tga
+  Deleted cube files to save space.
+
+Frame 11: time = 11.0 fs
+  Electron site probabilities (A0..A2): [2.31175620e-02 5.03086307e-03 3.02916395e-06]
+  Hole site probabilities     (D0..D2): [0.00515213 0.01829545 0.00470388]
+  Exciton site probabilities  (A0..A2): [0.68124539 0.28062377 0.00997939]
+  Wrote cube files for tag f00000011
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000011.tga
+  Deleted cube files to save space.
+
+Frame 12: time = 12.0 fs
+  Electron site probabilities (A0..A2): [2.26094889e-02 5.07880676e-03 5.92421509e-06]
+  Hole site probabilities     (D0..D2): [0.00436766 0.01951583 0.00381073]
+  Exciton site probabilities  (A0..A2): [0.7354724  0.22879839 0.00803498]
+  Wrote cube files for tag f00000012
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000012.tga
+  Deleted cube files to save space.
+
+Frame 13: time = 13.0 fs
+  Electron site probabilities (A0..A2): [2.2443463e-02 4.6717074e-03 1.0815362e-05]
+  Hole site probabilities     (D0..D2): [0.00367249 0.0206981  0.0027554 ]
+  Exciton site probabilities  (A0..A2): [0.79619374 0.17046247 0.0062178 ]
+  Wrote cube files for tag f00000013
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000013.tga
+  Deleted cube files to save space.
+
+Frame 14: time = 14.0 fs
+  Electron site probabilities (A0..A2): [2.24894755e-02 4.26384508e-03 1.82109638e-05]
+  Hole site probabilities     (D0..D2): [0.00311505 0.02148064 0.00217584]
+  Exciton site probabilities  (A0..A2): [0.8520933  0.11660907 0.0045261 ]
+  Wrote cube files for tag f00000014
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000014.tga
+  Deleted cube files to save space.
+
+Frame 15: time = 15.0 fs
+  Electron site probabilities (A0..A2): [2.24736593e-02 4.26933190e-03 2.90908239e-05]
+  Hole site probabilities     (D0..D2): [0.00287271 0.02167486 0.00222451]
+  Exciton site probabilities  (A0..A2): [0.89481731 0.0753854  0.0030252 ]
+  Wrote cube files for tag f00000015
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000015.tga
+  Deleted cube files to save space.
+
+Frame 16: time = 16.0 fs
+  Electron site probabilities (A0..A2): [2.24498056e-02 3.68517283e-03 4.39925451e-05]
+  Hole site probabilities     (D0..D2): [0.00251141 0.02110875 0.00255881]
+  Exciton site probabilities  (A0..A2): [0.92288351 0.04910947 0.00182806]
+  Wrote cube files for tag f00000016
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000016.tga
+  Deleted cube files to save space.
+
+Frame 17: time = 17.0 fs
+  Electron site probabilities (A0..A2): [2.19668216e-02 3.26807301e-03 6.34832253e-05]
+  Hole site probabilities     (D0..D2): [0.0023879  0.02027559 0.00263489]
+  Exciton site probabilities  (A0..A2): [0.9387059  0.0347739  0.00122182]
+  Wrote cube files for tag f00000017
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000017.tga
+  Deleted cube files to save space.
+
+Frame 18: time = 18.0 fs
+  Electron site probabilities (A0..A2): [2.12924263e-02 2.92303013e-03 8.77093214e-05]
+  Hole site probabilities     (D0..D2): [0.00229713 0.01943579 0.00257025]
+  Exciton site probabilities  (A0..A2): [9.47200855e-01 2.76038676e-02 8.92111455e-04]
+  Wrote cube files for tag f00000018
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000018.tga
+  Deleted cube files to save space.
+
+Frame 19: time = 19.0 fs
+  Electron site probabilities (A0..A2): [0.02134231 0.00262395 0.00011726]
+  Hole site probabilities     (D0..D2): [0.00242961 0.01883585 0.00281805]
+  Exciton site probabilities  (A0..A2): [9.51785099e-01 2.35559567e-02 5.75431396e-04]
+  Wrote cube files for tag f00000019
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000019.tga
+  Deleted cube files to save space.
+
+Frame 20: time = 20.0 fs
+  Electron site probabilities (A0..A2): [0.02195028 0.00248878 0.00015163]
+  Hole site probabilities     (D0..D2): [0.00266807 0.01883951 0.00308311]
+  Exciton site probabilities  (A0..A2): [9.54082366e-01 2.09981581e-02 3.28786330e-04]
+  Wrote cube files for tag f00000020
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000020.tga
+  Deleted cube files to save space.
+
+Frame 21: time = 21.0 fs
+  Electron site probabilities (A0..A2): [0.0232583  0.00251766 0.00018949]
+  Hole site probabilities     (D0..D2): [0.00299564 0.0197667  0.00320311]
+  Exciton site probabilities  (A0..A2): [9.54257690e-01 1.95966796e-02 1.80183028e-04]
+  Wrote cube files for tag f00000021
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000021.tga
+  Deleted cube files to save space.
+
+Frame 22: time = 22.0 fs
+  Electron site probabilities (A0..A2): [0.02531878 0.0026084  0.00022849]
+  Hole site probabilities     (D0..D2): [0.00337716 0.02157871 0.0031998 ]
+  Exciton site probabilities  (A0..A2): [9.52375138e-01 1.93184152e-02 1.50777163e-04]
+  Wrote cube files for tag f00000022
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000022.tga
+  Deleted cube files to save space.
+
+Frame 23: time = 23.0 fs
+  Electron site probabilities (A0..A2): [0.02753462 0.0026616  0.00026572]
+  Hole site probabilities     (D0..D2): [0.00364847 0.02398123 0.00283225]
+  Exciton site probabilities  (A0..A2): [9.49119291e-01 2.01550723e-02 2.63691822e-04]
+  Wrote cube files for tag f00000023
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000023.tga
+  Deleted cube files to save space.
+
+Frame 24: time = 24.0 fs
+  Electron site probabilities (A0..A2): [0.02971487 0.00264792 0.00029857]
+  Hole site probabilities     (D0..D2): [0.00357484 0.02659413 0.00249241]
+  Exciton site probabilities  (A0..A2): [9.44683316e-01 2.21258533e-02 5.29461200e-04]
+  Wrote cube files for tag f00000024
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000024.tga
+  Deleted cube files to save space.
+
+Frame 25: time = 25.0 fs
+  Electron site probabilities (A0..A2): [0.03207128 0.00237237 0.00032463]
+  Hole site probabilities     (D0..D2): [0.00335916 0.02915174 0.00225738]
+  Exciton site probabilities  (A0..A2): [9.39032894e-01 2.52868189e-02 9.12011511e-04]
+  Wrote cube files for tag f00000025
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000025.tga
+  Deleted cube files to save space.
+
+Frame 26: time = 26.0 fs
+  Electron site probabilities (A0..A2): [0.03419523 0.00214856 0.00034443]
+  Hole site probabilities     (D0..D2): [0.00327132 0.03142359 0.00199331]
+  Exciton site probabilities  (A0..A2): [0.93236821 0.0296487  0.00129487]
+  Wrote cube files for tag f00000026
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000026.tga
+  Deleted cube files to save space.
+
+Frame 27: time = 27.0 fs
+  Electron site probabilities (A0..A2): [0.03568001 0.00214384 0.0003614 ]
+  Hole site probabilities     (D0..D2): [0.0034375  0.03308462 0.00166313]
+  Exciton site probabilities  (A0..A2): [0.92530273 0.0350222  0.00148983]
+  Wrote cube files for tag f00000027
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000027.tga
+  Deleted cube files to save space.
+
+Frame 28: time = 28.0 fs
+  Electron site probabilities (A0..A2): [0.03615589 0.00214275 0.00037882]
+  Hole site probabilities     (D0..D2): [0.00358121 0.03377129 0.00132495]
+  Exciton site probabilities  (A0..A2): [0.91909702 0.04089418 0.00133134]
+  Wrote cube files for tag f00000028
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000028.tga
+  Deleted cube files to save space.
+
+Frame 29: time = 29.0 fs
+  Electron site probabilities (A0..A2): [0.03540918 0.00212341 0.00039998]
+  Hole site probabilities     (D0..D2): [0.00362389 0.03323499 0.00107368]
+  Exciton site probabilities  (A0..A2): [9.14777695e-01 4.64577868e-02 8.31953699e-04]
+  Wrote cube files for tag f00000029
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000029.tga
+  Deleted cube files to save space.
+
+Frame 30: time = 30.0 fs
+  Electron site probabilities (A0..A2): [0.03374565 0.0020797  0.00042765]
+  Hole site probabilities     (D0..D2): [0.0035624  0.03169456 0.00099604]
+  Exciton site probabilities  (A0..A2): [9.12546096e-01 5.09397229e-02 2.61173826e-04]
+  Wrote cube files for tag f00000030
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000030.tga
+  Deleted cube files to save space.
+
+Frame 31: time = 31.0 fs
+  Electron site probabilities (A0..A2): [0.03282851 0.0020182  0.0004639 ]
+  Hole site probabilities     (D0..D2): [0.00343284 0.03074917 0.00112861]
+  Exciton site probabilities  (A0..A2): [9.10707466e-01 5.39765418e-02 5.37865788e-06]
+  Wrote cube files for tag f00000031
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000031.tga
+  Deleted cube files to save space.
+
+Frame 32: time = 32.0 fs
+  Electron site probabilities (A0..A2): [0.0310524  0.00194858 0.00050996]
+  Hole site probabilities     (D0..D2): [0.0032744  0.02877488 0.00146166]
+  Exciton site probabilities  (A0..A2): [9.10196531e-01 5.60171336e-02 2.75399958e-04]
+  Wrote cube files for tag f00000032
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000032.tga
+  Deleted cube files to save space.
+
+Frame 33: time = 33.0 fs
+  Electron site probabilities (A0..A2): [0.02709862 0.00187721 0.00056619]
+  Hole site probabilities     (D0..D2): [0.003102   0.02449534 0.00194468]
+  Exciton site probabilities  (A0..A2): [0.91178283 0.05773185 0.0009433 ]
+  Wrote cube files for tag f00000033
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000033.tga
+  Deleted cube files to save space.
+
+Frame 34: time = 34.0 fs
+  Electron site probabilities (A0..A2): [0.02466165 0.00180554 0.00063212]
+  Hole site probabilities     (D0..D2): [0.00275719 0.02181839 0.00252374]
+  Exciton site probabilities  (A0..A2): [0.91227591 0.05895712 0.00166766]
+  Wrote cube files for tag f00000034
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000034.tga
+  Deleted cube files to save space.
+
+Frame 35: time = 35.0 fs
+  Electron site probabilities (A0..A2): [0.02345621 0.00173167 0.00070662]
+  Hole site probabilities     (D0..D2): [0.00224685 0.02053428 0.00311337]
+  Exciton site probabilities  (A0..A2): [0.91340793 0.05915745 0.00154011]
+  Wrote cube files for tag f00000035
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000035.tga
+  Deleted cube files to save space.
+
+Frame 36: time = 36.0 fs
+  Electron site probabilities (A0..A2): [0.02326933 0.00165198 0.00078836]
+  Hole site probabilities     (D0..D2): [0.00194726 0.02036141 0.00340099]
+  Exciton site probabilities  (A0..A2): [0.91519604 0.05749918 0.0015951 ]
+  Wrote cube files for tag f00000036
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000036.tga
+  Deleted cube files to save space.
+
+Frame 37: time = 37.0 fs
+  Electron site probabilities (A0..A2): [0.02384537 0.00156349 0.00087624]
+  Hole site probabilities     (D0..D2): [0.00160994 0.0209986  0.00367657]
+  Exciton site probabilities  (A0..A2): [0.91763272 0.05452845 0.00155373]
+  Wrote cube files for tag f00000037
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000037.tga
+  Deleted cube files to save space.
+
+Frame 38: time = 38.0 fs
+  Electron site probabilities (A0..A2): [0.02516877 0.00146398 0.00096969]
+  Hole site probabilities     (D0..D2): [0.0012842  0.02222671 0.00409154]
+  Exciton site probabilities  (A0..A2): [0.919912   0.05106234 0.00142321]
+  Wrote cube files for tag f00000038
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000038.tga
+  Deleted cube files to save space.
+
+Frame 39: time = 39.0 fs
+  Electron site probabilities (A0..A2): [0.02698818 0.00135368 0.0010684 ]
+  Hole site probabilities     (D0..D2): [0.00106359 0.0239899  0.00435677]
+  Exciton site probabilities  (A0..A2): [0.92156553 0.04777467 0.00124954]
+  Wrote cube files for tag f00000039
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000039.tga
+  Deleted cube files to save space.
+
+Frame 40: time = 40.0 fs
+  Electron site probabilities (A0..A2): [0.02924347 0.00123734 0.00117192]
+  Hole site probabilities     (D0..D2): [0.00101649 0.02623576 0.00440049]
+  Exciton site probabilities  (A0..A2): [0.92227932 0.04500869 0.00105927]
+  Wrote cube files for tag f00000040
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000040.tga
+  Deleted cube files to save space.
+
+Frame 41: time = 41.0 fs
+  Electron site probabilities (A0..A2): [0.031801   0.00112425 0.00127917]
+  Hole site probabilities     (D0..D2): [0.00113922 0.02883549 0.00422971]
+  Exciton site probabilities  (A0..A2): [9.22123687e-01 4.28076247e-02 8.64259231e-04]
+  Wrote cube files for tag f00000041
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000041.tga
+  Deleted cube files to save space.
+
+Frame 42: time = 42.0 fs
+  Electron site probabilities (A0..A2): [0.03441751 0.00102508 0.00138828]
+  Hole site probabilities     (D0..D2): [0.00137387 0.0315459  0.00391108]
+  Exciton site probabilities  (A0..A2): [9.21466405e-01 4.10334667e-02 6.69265660e-04]
+  Wrote cube files for tag f00000042
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000042.tga
+  Deleted cube files to save space.
+
+Frame 43: time = 43.0 fs
+  Electron site probabilities (A0..A2): [0.03672218 0.00094605 0.00149662]
+  Hole site probabilities     (D0..D2): [0.00165507 0.03398956 0.00352022]
+  Exciton site probabilities  (A0..A2): [9.20859946e-01 3.94967265e-02 4.78482783e-04]
+  Wrote cube files for tag f00000043
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000043.tga
+  Deleted cube files to save space.
+
+Frame 44: time = 44.0 fs
+  Electron site probabilities (A0..A2): [0.03824998 0.00088301 0.00160126]
+  Hole site probabilities     (D0..D2): [0.00193935 0.03568537 0.00310953]
+  Exciton site probabilities  (A0..A2): [9.20912701e-01 3.80525409e-02 3.00502132e-04]
+  Wrote cube files for tag f00000044
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000044.tga
+  Deleted cube files to save space.
+
+Frame 45: time = 45.0 fs
+  Electron site probabilities (A0..A2): [0.03855373 0.0008207  0.00169936]
+  Hole site probabilities     (D0..D2): [0.00220492 0.03616088 0.00270799]
+  Exciton site probabilities  (A0..A2): [9.22119290e-01 3.66561991e-02 1.50724831e-04]
+  Wrote cube files for tag f00000045
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000045.tga
+  Deleted cube files to save space.
+
+Frame 46: time = 46.0 fs
+  Electron site probabilities (A0..A2): [0.03737679 0.00074172 0.00178822]
+  Hole site probabilities     (D0..D2): [0.00243784 0.03513326 0.00233564]
+  Exciton site probabilities  (A0..A2): [9.24659940e-01 3.53841690e-02 4.91548319e-05]
+  Wrote cube files for tag f00000046
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000046.tga
+  Deleted cube files to save space.
+
+Frame 47: time = 47.0 fs
+  Electron site probabilities (A0..A2): [0.03480664 0.00064244 0.00186523]
+  Hole site probabilities     (D0..D2): [0.00262273 0.03267755 0.00201403]
+  Exciton site probabilities  (A0..A2): [9.28251381e-01 3.44221485e-02 1.21592060e-05]
+  Wrote cube files for tag f00000047
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000047.tga
+  Deleted cube files to save space.
+
+Frame 48: time = 48.0 fs
+  Electron site probabilities (A0..A2): [0.03130896 0.00054203 0.00192802]
+  Hole site probabilities     (D0..D2): [0.00274472 0.02926915 0.00176514]
+  Exciton site probabilities  (A0..A2): [9.32165566e-01 3.40148565e-02 4.05629176e-05]
+  Wrote cube files for tag f00000048
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000048.tga
+  Deleted cube files to save space.
+
+Frame 49: time = 49.0 fs
+  Electron site probabilities (A0..A2): [0.02759615 0.00047134 0.0019753 ]
+  Hole site probabilities     (D0..D2): [0.00279761 0.02564187 0.00160331]
+  Exciton site probabilities  (A0..A2): [9.35459883e-01 3.43858153e-02 1.11507702e-04]
+  Wrote cube files for tag f00000049
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000049.tga
+  Deleted cube files to save space.
+
+Frame 50: time = 50.0 fs
+  Electron site probabilities (A0..A2): [0.02438511 0.0004462  0.00200784]
+  Hole site probabilities     (D0..D2): [0.00278701 0.02252149 0.00153065]
+  Exciton site probabilities  (A0..A2): [9.37299371e-01 3.56783859e-02 1.83086832e-04]
+  Wrote cube files for tag f00000050
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000050.tga
+  Deleted cube files to save space.
+
+Frame 51: time = 51.0 fs
+  Electron site probabilities (A0..A2): [0.02217579 0.00045048 0.00202862]
+  Hole site probabilities     (D0..D2): [0.00272367 0.02039011 0.0015411 ]
+  Exciton site probabilities  (A0..A2): [9.37136863e-01 3.79930630e-02 2.15186077e-04]
+  Wrote cube files for tag f00000051
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000051.tga
+  Deleted cube files to save space.
+
+Frame 52: time = 52.0 fs
+  Electron site probabilities (A0..A2): [0.02117346 0.00044921 0.0020414 ]
+  Hole site probabilities     (D0..D2): [0.00261384 0.01942188 0.00162835]
+  Exciton site probabilities  (A0..A2): [9.34599385e-01 4.15377126e-02 1.98830490e-04]
+  Wrote cube files for tag f00000052
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000052.tga
+  Deleted cube files to save space.
+
+Frame 53: time = 53.0 fs
+  Electron site probabilities (A0..A2): [0.02138202 0.00042235 0.0020483 ]
+  Hole site probabilities     (D0..D2): [0.00245675 0.01960783 0.00178809]
+  Exciton site probabilities  (A0..A2): [9.29157647e-01 4.68122785e-02 1.77400395e-04]
+  Wrote cube files for tag f00000053
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000053.tga
+  Deleted cube files to save space.
+
+Frame 54: time = 54.0 fs
+  Electron site probabilities (A0..A2): [0.0227868  0.00038573 0.00204838]
+  Hole site probabilities     (D0..D2): [0.00225376 0.02095829 0.00200886]
+  Exciton site probabilities  (A0..A2): [9.19788739e-01 5.47430687e-02 2.47279791e-04]
+  Wrote cube files for tag f00000054
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000054.tga
+  Deleted cube files to save space.
+
+Frame 55: time = 55.0 fs
+  Electron site probabilities (A0..A2): [0.02550986 0.0003796  0.00203822]
+  Hole site probabilities     (D0..D2): [0.00202597 0.02364798 0.00225373]
+  Exciton site probabilities  (A0..A2): [9.04751929e-01 6.67753832e-02 5.45012389e-04]
+  Wrote cube files for tag f00000055
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000055.tga
+  Deleted cube files to save space.
+
+Frame 56: time = 56.0 fs
+  Electron site probabilities (A0..A2): [0.02987059 0.00043954 0.00201437]
+  Hole site probabilities     (D0..D2): [0.00182702 0.0280498  0.00244768]
+  Exciton site probabilities  (A0..A2): [0.88142461 0.08500465 0.00124624]
+  Wrote cube files for tag f00000056
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000056.tga
+  Deleted cube files to save space.
+
+Frame 57: time = 57.0 fs
+  Electron site probabilities (A0..A2): [0.03596349 0.00057711 0.00197602]
+  Hole site probabilities     (D0..D2): [0.00137069 0.03466396 0.00248197]
+  Exciton site probabilities  (A0..A2): [0.8459672  0.11290477 0.00261141]
+  Wrote cube files for tag f00000057
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000057.tga
+  Deleted cube files to save space.
+
+Frame 58: time = 58.0 fs
+  Electron site probabilities (A0..A2): [0.04490603 0.00078473 0.00192654]
+  Hole site probabilities     (D0..D2): [0.00143051 0.04386004 0.00232675]
+  Exciton site probabilities  (A0..A2): [0.79224411 0.15537113 0.00476746]
+  Wrote cube files for tag f00000058
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000058.tga
+  Deleted cube files to save space.
+
+Frame 59: time = 59.0 fs
+  Electron site probabilities (A0..A2): [0.05607238 0.00104661 0.00187382]
+  Hole site probabilities     (D0..D2): [0.00161475 0.05536088 0.00201719]
+  Exciton site probabilities  (A0..A2): [0.71399668 0.21857516 0.00843534]
+  Wrote cube files for tag f00000059
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000059.tga
+  Deleted cube files to save space.
+
+Frame 60: time = 60.0 fs
+  Electron site probabilities (A0..A2): [0.06699728 0.00135147 0.00182958]
+  Hole site probabilities     (D0..D2): [0.00185042 0.06664872 0.0016792 ]
+  Exciton site probabilities  (A0..A2): [0.60325656 0.31180072 0.01476439]
+  Wrote cube files for tag f00000060
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000060.tga
+  Deleted cube files to save space.
+
+Frame 61: time = 61.0 fs
+  Electron site probabilities (A0..A2): [0.07127623 0.00169315 0.0018085 ]
+  Hole site probabilities     (D0..D2): [0.0020508  0.07125625 0.00147084]
+  Exciton site probabilities  (A0..A2): [0.45669383 0.44369588 0.02483241]
+  Wrote cube files for tag f00000061
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000061.tga
+  Deleted cube files to save space.
+
+Frame 62: time = 62.0 fs
+  Electron site probabilities (A0..A2): [0.06202011 0.00205519 0.00182684]
+  Hole site probabilities     (D0..D2): [0.00216153 0.06226058 0.00148004]
+  Exciton site probabilities  (A0..A2): [0.29130971 0.60506401 0.03772415]
+  Wrote cube files for tag f00000062
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000062.tga
+  Deleted cube files to save space.
+
+Frame 63: time = 63.0 fs
+  Electron site probabilities (A0..A2): [0.04131336 0.00229923 0.00189931]
+  Hole site probabilities     (D0..D2): [0.0021768  0.04168077 0.00165433]
+  Exciton site probabilities  (A0..A2): [0.14884449 0.75654979 0.04909383]
+  Wrote cube files for tag f00000063
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000063.tga
+  Deleted cube files to save space.
+
+Frame 64: time = 64.0 fs
+  Electron site probabilities (A0..A2): [0.02058884 0.00195832 0.0020188 ]
+  Hole site probabilities     (D0..D2): [0.00212496 0.0205873  0.0018537 ]
+  Exciton site probabilities  (A0..A2): [0.06213514 0.85887371 0.05442518]
+  Wrote cube files for tag f00000064
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000064.tga
+  Deleted cube files to save space.
+
+Frame 65: time = 65.0 fs
+  Electron site probabilities (A0..A2): [0.00796591 0.00155397 0.00202042]
+  Hole site probabilities     (D0..D2): [0.00204967 0.00788562 0.001605  ]
+  Exciton site probabilities  (A0..A2): [0.02699915 0.90831762 0.05314294]
+  Wrote cube files for tag f00000065
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000065.tga
+  Deleted cube files to save space.
+
+Frame 66: time = 66.0 fs
+  Electron site probabilities (A0..A2): [0.00368099 0.00149168 0.00186301]
+  Hole site probabilities     (D0..D2): [0.0019783  0.00360209 0.00145528]
+  Exciton site probabilities  (A0..A2): [0.01868073 0.92608908 0.04819453]
+  Wrote cube files for tag f00000066
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000066.tga
+  Deleted cube files to save space.
+
+Frame 67: time = 67.0 fs
+  Electron site probabilities (A0..A2): [0.00281809 0.00122694 0.00188046]
+  Hole site probabilities     (D0..D2): [0.00174733 0.00286498 0.00131317]
+  Exciton site probabilities  (A0..A2): [0.01806757 0.93275831 0.04324864]
+  Wrote cube files for tag f00000067
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000067.tga
+  Deleted cube files to save space.
+
+Frame 68: time = 68.0 fs
+  Electron site probabilities (A0..A2): [0.00301205 0.00107706 0.00204373]
+  Hole site probabilities     (D0..D2): [0.00169851 0.0030196  0.00141472]
+  Exciton site probabilities  (A0..A2): [0.01814173 0.93519808 0.04052735]
+  Wrote cube files for tag f00000068
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000068.tga
+  Deleted cube files to save space.
+
+Frame 69: time = 69.0 fs
+  Electron site probabilities (A0..A2): [0.00328427 0.0009089  0.0019729 ]
+  Hole site probabilities     (D0..D2): [0.00164919 0.00311552 0.00140136]
+  Exciton site probabilities  (A0..A2): [0.01910674 0.93407527 0.04065192]
+  Wrote cube files for tag f00000069
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000069.tga
+  Deleted cube files to save space.
+
+Frame 70: time = 70.0 fs
+  Electron site probabilities (A0..A2): [0.00353229 0.00076527 0.0018656 ]
+  Hole site probabilities     (D0..D2): [0.00158787 0.00294628 0.00162902]
+  Exciton site probabilities  (A0..A2): [0.02159595 0.92891519 0.0433257 ]
+  Wrote cube files for tag f00000070
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000070.tga
+  Deleted cube files to save space.
+
+Frame 71: time = 71.0 fs
+  Electron site probabilities (A0..A2): [0.00343539 0.00067344 0.00189078]
+  Hole site probabilities     (D0..D2): [0.00150036 0.00258787 0.00191137]
+  Exciton site probabilities  (A0..A2): [0.02537152 0.92048728 0.0481416 ]
+  Wrote cube files for tag f00000071
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000071.tga
+  Deleted cube files to save space.
+
+Frame 72: time = 72.0 fs
+  Electron site probabilities (A0..A2): [0.00295077 0.00065204 0.00186544]
+  Hole site probabilities     (D0..D2): [0.00137521 0.00186711 0.00222593]
+  Exciton site probabilities  (A0..A2): [0.0303985  0.90938964 0.05474361]
+  Wrote cube files for tag f00000072
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000072.tga
+  Deleted cube files to save space.
+
+Frame 73: time = 73.0 fs
+  Electron site probabilities (A0..A2): [0.00259114 0.00070891 0.00179592]
+  Hole site probabilities     (D0..D2): [0.00120873 0.00135086 0.00253638]
+  Exciton site probabilities  (A0..A2): [0.03715893 0.89514447 0.06260063]
+  Wrote cube files for tag f00000073
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000073.tga
+  Deleted cube files to save space.
+
+Frame 74: time = 74.0 fs
+  Electron site probabilities (A0..A2): [0.00275583 0.00084128 0.00169137]
+  Hole site probabilities     (D0..D2): [0.00101001 0.00147164 0.00280683]
+  Exciton site probabilities  (A0..A2): [0.04655243 0.87736487 0.07079422]
+  Wrote cube files for tag f00000074
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000074.tga
+  Deleted cube files to save space.
+
+Frame 75: time = 75.0 fs
+  Electron site probabilities (A0..A2): [0.00346213 0.00104177 0.00156112]
+  Hole site probabilities     (D0..D2): [0.00079977 0.00224585 0.0030194 ]
+  Exciton site probabilities  (A0..A2): [0.05913723 0.85678772 0.07801004]
+  Wrote cube files for tag f00000075
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000075.tga
+  Deleted cube files to save space.
+
+Frame 76: time = 76.0 fs
+  Electron site probabilities (A0..A2): [0.00426346 0.0013007  0.00141375]
+  Hole site probabilities     (D0..D2): [0.00060191 0.00318605 0.00318995]
+  Exciton site probabilities  (A0..A2): [0.07419221 0.83593163 0.08289824]
+  Wrote cube files for tag f00000076
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000076.tga
+  Deleted cube files to save space.
+
+Frame 77: time = 77.0 fs
+  Electron site probabilities (A0..A2): [0.00443104 0.00159842 0.00125777]
+  Hole site probabilities     (D0..D2): [0.00043384 0.00350426 0.00334913]
+  Exciton site probabilities  (A0..A2): [0.08918095 0.81888792 0.0846439 ]
+  Wrote cube files for tag f00000077
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000077.tga
+  Deleted cube files to save space.
+
+Frame 78: time = 78.0 fs
+  Electron site probabilities (A0..A2): [0.00477934 0.00191811 0.00110233]
+  Hole site probabilities     (D0..D2): [0.00030309 0.003926   0.00357068]
+  Exciton site probabilities  (A0..A2): [0.09934429 0.80952315 0.08333279]
+  Wrote cube files for tag f00000078
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000078.tga
+  Deleted cube files to save space.
+
+Frame 79: time = 79.0 fs
+  Electron site probabilities (A0..A2): [0.00541429 0.00224485 0.00095712]
+  Hole site probabilities     (D0..D2): [0.00021048 0.00449042 0.00391537]
+  Exciton site probabilities  (A0..A2): [0.10067447 0.81068648 0.08002279]
+  Wrote cube files for tag f00000079
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000079.tga
+  Deleted cube files to save space.
+
+Frame 80: time = 80.0 fs
+  Electron site probabilities (A0..A2): [0.00622292 0.00256311 0.0008326 ]
+  Hole site probabilities     (D0..D2): [0.00015666 0.00509988 0.0043621 ]
+  Exciton site probabilities  (A0..A2): [0.09205965 0.82212863 0.07619308]
+  Wrote cube files for tag f00000080
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000080.tga
+  Deleted cube files to save space.
+
+Frame 81: time = 81.0 fs
+  Electron site probabilities (A0..A2): [0.00680313 0.00285732 0.00073932]
+  Hole site probabilities     (D0..D2): [0.00014537 0.00547227 0.00478213]
+  Exciton site probabilities  (A0..A2): [0.07628632 0.84009561 0.07321829]
+  Wrote cube files for tag f00000081
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000081.tga
+  Deleted cube files to save space.
+
+Frame 82: time = 82.0 fs
+  Electron site probabilities (A0..A2): [0.00667422 0.00310928 0.00068672]
+  Hole site probabilities     (D0..D2): [0.00018097 0.00527761 0.00501165]
+  Exciton site probabilities  (A0..A2): [0.05868176 0.85880288 0.07204514]
+  Wrote cube files for tag f00000082
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000082.tga
+  Deleted cube files to save space.
+
+Frame 83: time = 83.0 fs
+  Electron site probabilities (A0..A2): [0.00569082 0.00329374 0.00068179]
+  Hole site probabilities     (D0..D2): [0.00026369 0.00441702 0.00498563]
+  Exciton site probabilities  (A0..A2): [0.04391697 0.87327753 0.07313916]
+  Wrote cube files for tag f00000083
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000083.tga
+  Deleted cube files to save space.
+
+Frame 84: time = 84.0 fs
+  Electron site probabilities (A0..A2): [0.00425351 0.00337908 0.00072787]
+  Hole site probabilities     (D0..D2): [0.00038794 0.00318563 0.00478689]
+  Exciton site probabilities  (A0..A2): [0.03380002 0.88120301 0.07663651]
+  Wrote cube files for tag f00000084
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000084.tga
+  Deleted cube files to save space.
+
+Frame 85: time = 85.0 fs
+  Electron site probabilities (A0..A2): [0.00273227 0.00281224 0.00081622]
+  Hole site probabilities     (D0..D2): [0.00052834 0.00242011 0.00341227]
+  Exciton site probabilities  (A0..A2): [0.02785971 0.8831785  0.08260106]
+  Wrote cube files for tag f00000085
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000085.tga
+  Deleted cube files to save space.
+
+Frame 86: time = 86.0 fs
+  Electron site probabilities (A0..A2): [0.00212076 0.00269972 0.0009389 ]
+  Hole site probabilities     (D0..D2): [0.00067969 0.00185391 0.00322577]
+  Exciton site probabilities  (A0..A2): [0.02474886 0.87864794 0.09084381]
+  Wrote cube files for tag f00000086
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000086.tga
+  Deleted cube files to save space.
+
+Frame 87: time = 87.0 fs
+  Electron site probabilities (A0..A2): [0.00162016 0.00250575 0.00109241]
+  Hole site probabilities     (D0..D2): [0.0008538  0.00131277 0.00305175]
+  Exciton site probabilities  (A0..A2): [0.0232645  0.87023961 0.10127756]
+  Wrote cube files for tag f00000087
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000087.tga
+  Deleted cube files to save space.
+
+Frame 88: time = 88.0 fs
+  Electron site probabilities (A0..A2): [0.00156182 0.00224593 0.00126695]
+  Hole site probabilities     (D0..D2): [0.00106073 0.00115775 0.00285622]
+  Exciton site probabilities  (A0..A2): [0.02296288 0.85881307 0.11314936]
+  Wrote cube files for tag f00000088
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000088.tga
+  Deleted cube files to save space.
+
+Frame 89: time = 89.0 fs
+  Electron site probabilities (A0..A2): [0.00206114 0.00194732 0.00144974]
+  Hole site probabilities     (D0..D2): [0.00131004 0.00153817 0.00261   ]
+  Exciton site probabilities  (A0..A2): [0.024113   0.84570543 0.12472336]
+  Wrote cube files for tag f00000089
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000089.tga
+  Deleted cube files to save space.
+
+Frame 90: time = 90.0 fs
+  Electron site probabilities (A0..A2): [0.00284106 0.00164841 0.00162432]
+  Hole site probabilities     (D0..D2): [0.00160084 0.0021981  0.00231485]
+  Exciton site probabilities  (A0..A2): [0.02709315 0.83371819 0.13307487]
+  Wrote cube files for tag f00000090
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000090.tga
+  Deleted cube files to save space.
+
+Frame 91: time = 91.0 fs
+  Electron site probabilities (A0..A2): [0.00336441 0.00139539 0.00177019]
+  Hole site probabilities     (D0..D2): [0.00191388 0.00261181 0.0020043 ]
+  Exciton site probabilities  (A0..A2): [0.03186136 0.82708647 0.13452218]
+  Wrote cube files for tag f00000091
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000091.tga
+  Deleted cube files to save space.
+
+Frame 92: time = 92.0 fs
+  Electron site probabilities (A0..A2): [0.00322571 0.0012342  0.00186353]
+  Hole site probabilities     (D0..D2): [0.00221314 0.00238474 0.00172556]
+  Exciton site probabilities  (A0..A2): [0.03770854 0.82999895 0.12596908]
+  Wrote cube files for tag f00000092
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000092.tga
+  Deleted cube files to save space.
+
+Frame 93: time = 93.0 fs
+  Electron site probabilities (A0..A2): [0.00248894 0.00119992 0.00188122]
+  Hole site probabilities     (D0..D2): [0.00246012 0.00159565 0.00151432]
+  Exciton site probabilities  (A0..A2): [0.04338176 0.84409749 0.10695066]
+  Wrote cube files for tag f00000093
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000093.tga
+  Deleted cube files to save space.
+
+Frame 94: time = 94.0 fs
+  Electron site probabilities (A0..A2): [0.00166614 0.00130579 0.00180988]
+  Hole site probabilities     (D0..D2): [0.00263248 0.00077088 0.00137844]
+  Exciton site probabilities  (A0..A2): [0.04722852 0.86675689 0.08123278]
+  Wrote cube files for tag f00000094
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000094.tga
+  Deleted cube files to save space.
+
+Frame 95: time = 95.0 fs
+  Electron site probabilities (A0..A2): [0.00132885 0.00153226 0.00165954]
+  Hole site probabilities     (D0..D2): [0.0027331  0.00048506 0.0013025 ]
+  Exciton site probabilities  (A0..A2): [0.04939902 0.89039766 0.05568267]
+  Wrote cube files for tag f00000095
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000095.tga
+  Deleted cube files to save space.
+
+Frame 96: time = 96.0 fs
+  Electron site probabilities (A0..A2): [0.00167144 0.00182006 0.00147463]
+  Hole site probabilities     (D0..D2): [0.00278469 0.00091378 0.00126765]
+  Exciton site probabilities  (A0..A2): [0.04948434 0.90474815 0.04080138]
+  Wrote cube files for tag f00000096
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000096.tga
+  Deleted cube files to save space.
+
+Frame 97: time = 97.0 fs
+  Electron site probabilities (A0..A2): [0.00239736 0.00207844 0.00132805]
+  Hole site probabilities     (D0..D2): [0.00281851 0.00171905 0.0012663 ]
+  Exciton site probabilities  (A0..A2): [0.04790884 0.92219275 0.02409455]
+  Wrote cube files for tag f00000097
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000097.tga
+  Deleted cube files to save space.
+
+Frame 98: time = 98.0 fs
+  Electron site probabilities (A0..A2): [0.00300262 0.00221725 0.00128999]
+  Hole site probabilities     (D0..D2): [0.00286586 0.00234986 0.00129414]
+  Exciton site probabilities  (A0..A2): [0.04562299 0.92958042 0.01828673]
+  Wrote cube files for tag f00000098
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000098.tga
+  Deleted cube files to save space.
+
+Frame 99: time = 99.0 fs
+  Electron site probabilities (A0..A2): [0.00315927 0.00219147 0.00138734]
+  Hole site probabilities     (D0..D2): [0.00295283 0.00246192 0.00132333]
+  Exciton site probabilities  (A0..A2): [0.04332959 0.93296589 0.01696644]
+  Wrote cube files for tag f00000099
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000099.tga
+  Deleted cube files to save space.
+
+Frame 100: time = 100.0 fs
+  Electron site probabilities (A0..A2): [0.00265461 0.00197685 0.00158689]
+  Hole site probabilities     (D0..D2): [0.00304851 0.00187804 0.00129179]
+  Exciton site probabilities  (A0..A2): [0.04166751 0.93529883 0.01681531]
+  Wrote cube files for tag f00000100
+  Rendered TGA: /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/tga_images/density_f00000100.tga
+  Deleted cube files to save space.
+
+Generating video from TGA sequence...
+FFmpeg output logged to /scratch/kjoll/movie_maker/runs/20251119/run_143714_3ee87eb9/logs/ffmpeg.log
+Video generation complete.
+Total execution time: 49496.20 seconds
+Mode 'full' complete | N_frames limit: None | MP4 generation: True
