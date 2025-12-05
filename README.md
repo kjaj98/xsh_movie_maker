@@ -62,12 +62,13 @@ A small Python/VMD pipeline for visualising exciton/charge-transfer dynamics in 
 - Each run creates `runs/<date>/<run_id>/` containing cube files (`wf_cubes/`), rendered images (`tga_images/density_f########.tga`), and logs (`logs/python.log`, `logs/vmd.log`, `logs/ffmpeg.log`).
 - A sample movie generated from the included data is at `xsh_density_movie.mp4` (embedded below and also downloadable).
 - Example frames live under `runs/20251119/…/tga_images/` showing hole/electron/exciton isosurfaces with the saved camera view.
+- See a low resolution (480p) example, the corresponding 4k resolution mp4 file is available for download too:
 
 <p align="center">
   <video controls width="720">
-    <source src="xsh_density_movie.mp4" type="video/mp4">
+    <source src="xsh_density_movie_480p.mov" type="video/mp4">
     <!-- GitHub sometimes needs a fully-qualified raw URL for inline playback -->
-    <source src="https://raw.githubusercontent.com/kitjoll/xsh_movie_maker/main/xsh_density_movie.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/kitjoll/xsh_movie_maker/main/xsh_density_movie_480p.mov" type="video/mp4">
     Your viewer may block inline video; use the download link below.
   </video>
 </p>
