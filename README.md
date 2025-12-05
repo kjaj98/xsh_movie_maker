@@ -63,6 +63,12 @@ A small Python/VMD pipeline for visualising exciton/charge-transfer dynamics in 
 - A sample movie generated from the included data is at `xsh_density_movie.mp4` (open with your media player or `ffplay xsh_density_movie.mp4`).
 - Example frames live under `runs/20251119/…/tga_images/` showing hole/electron/exciton isosurfaces with the saved camera view.
 
+<video controls width="720">
+  <source src="xsh_density_movie.mp4" type="video/mp4">
+  Your browser does not support the video tag; download it instead.
+</video>
+
+
 ## Tuning
 - `CONFIG['sites']`: set donor/acceptor counts and atom index ranges; update if using different geometries.
 - `CONFIG['grid']`: control grid spacing/margins and orbital lobe width (`orbital_resolution`).
